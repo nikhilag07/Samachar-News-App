@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Max Zahn",
+            "title": "TikTok CEO Shou Zi Chew testimony updates: Company hopes to stave off possible ban - ABC News",
+            "description": "",
+            "url": "https://abcnews.go.com/Business/live-updates/tiktok-ceo-testimony/?id=98068832",
+            "urlToImage": "https://s.abcnews.com/images/US/shou-zi-chew-tiktok-rt-mz-09-230323_1679579345830_hpMain_16x9_1600.jpg",
+            "publishedAt": "2023-03-23T16:37:29Z",
+            "content": "Rep. Diana DeGette, D-Colo., asked a series of questions about the spread of misinformation on TikTok, citing a viral post in 2021 that falsely instructed viewers on how to make antimalarial drug hyd… [+742 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lauren del Valle, Zoe Sottile",
+            "title": "Ethan Crumbley's parents should stand trial for involuntary manslaughter, appellate court says - CNN",
+            "description": "The parents of the Oxford High School shooter will stand trial on four counts of involuntary manslaughter for the four deaths their son Ethan Crumbley caused in the November 2021 shooting, the Michigan Court of Appeals has ruled.",
+            "url": "https://www.cnn.com/2023/03/23/us/crumbley-parents-oxford-school-shooting/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230307162153-crumbley-parents-oxford-school-shooting.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-23T15:55:00Z",
+            "content": "The parents of the Oxford High School shooter will stand trial on four counts of involuntary manslaughter for the four deaths their son Ethan Crumbley caused in the November 2021 shooting, the Michig… [+2071 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Peter Valdes-Dapena",
+            "title": "GM to stop making Chevy Camaro, leaving muscle car's future uncertain - CNN",
+            "description": "General Motors announced Wednesday that it's ending production of the latest generation of the Chevrolet Camaro, leaving the Ford Mustang as the last gasoline-powered American performance coupe.",
+            "url": "https://www.cnn.com/2023/03/23/business/gm-to-stop-building-camaro/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230323104048-01-chevrolet-camaro.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-23T15:21:00Z",
+            "content": "General Motors announced Wednesday that its ending production of the latest generation of the Chevrolet Camaro, leaving the Ford Mustang as the last gasoline-powered American performance coupe.\r\nStel… [+2068 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland",
+            "title": "Scientists uncover what accelerated an interstellar comet through our solar system - CNN",
+            "description": "'Oumuamua became the first observed interstellar object to zip through our solar system in 2017. Now, researchers think they have uncovered a simple solution for what propelled the comet during its flyby of the sun.",
+            "url": "https://www.cnn.com/2023/03/23/world/oumuamua-interstellar-comet-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230322105056-oumuamua-interstellar-comet.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-23T15:12:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nIn 2017, Oumuamua became the first observed interstell… [+6269 chars]"
+        } 
+    ]
+}
